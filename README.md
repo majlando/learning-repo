@@ -11,3 +11,5 @@ https://javascript.info/
 https://fullstackopen.com/en/
 
 https://developer.mozilla.org/en-US/
+
+https://www.typescriptlang.org/docs/handbook/intro.html
