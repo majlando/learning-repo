@@ -13,9 +13,9 @@ https://javascript.info/
 https://fullstackopen.com/en/
 - Not begun
 ---
-https://developer.mozilla.org/en-US/
-- Reference Material
----
 https://www.typescriptlang.org/docs/handbook/
+- Not begun
+---
+https://developer.mozilla.org/en-US/
 - Reference Material
 ---
