@@ -1,21 +1,15 @@
-### Learning Repo
-
----
-https://git-scm.com/book/en/v2
+# Learning Repo
+## Pro Git 2nd Edition (2014)
 - Chapter 1: Getting Started
----
-https://web.dev/learn/
-- Not begun
----
-https://javascript.info/
-- Not begun
----
-https://fullstackopen.com/en/
-- Not begun
----
-https://www.typescriptlang.org/docs/handbook/
-- Not begun
----
-https://developer.mozilla.org/en-US/
-- Reference Material
----
+## [web.dev](https://web.dev/)
+- [HTML](https://web.dev/html)
+- [CSS](https://web.dev/css)
+- [JavaScript](https://web.dev/javascript)
+## [The Modern JavaScript Tutorial](https://javascript.info/)
+- [An Introduction to JavaScript](https://javascript.info/intro)
+## [Full stack open](https://fullstackopen.com/en/)
+- [Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+## [TypeScript Documentation](https://www.typescriptlang.org/docs/handbook/)
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+## [MDN](https://developer.mozilla.org/en-US/)
+- [Reference Material](https://developer.mozilla.org/en-US/)
