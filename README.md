@@ -1,6 +1,5 @@
-# Learning Repo
-## Pro Git 2nd Edition (2014)
-- Chapter 1: Getting Started
+## [Pro Git 2nd Edition](https://git-scm.com/book/en/v2)
+- [Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 ## [web.dev](https://web.dev/)
 - [HTML](https://web.dev/html)
 - [CSS](https://web.dev/css)
