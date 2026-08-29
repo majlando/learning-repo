@@ -1,3 +1,5 @@
+## [Microsoft Learn](https://learn.microsoft.com/en-us/)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ## [Pro Git 2nd Edition](https://git-scm.com/book/en/v2)
 - [Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 ## [web.dev](https://web.dev/)
