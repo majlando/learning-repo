@@ -1,4 +1,3 @@
-
 ##  [React](https://react.dev/)
 - [Quick Start](https://react.dev/learn)
 ## [Microsoft Learn](https://learn.microsoft.com/en-us/)
@@ -20,6 +19,6 @@
 ## [Node.js](https://nodejs.org/)
 - [Learn Node.js](https://nodejs.org/learn)
 ## [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
+- [Course overview + the shell (2026)](https://missing.csail.mit.edu/2026/course-shell/)
 ## [MDN](https://developer.mozilla.org/en-US/)
 - [Reference Material](https://developer.mozilla.org/en-US/)
